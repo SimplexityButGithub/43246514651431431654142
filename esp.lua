@@ -67,9 +67,9 @@ Switch.BackgroundColor3 = Color3.new(0, 0, 0)
 Switch.BackgroundTransparency = 0.5
 Switch.BorderColor3 = Color3.new(0, 0, 0)
 Switch.Position = UDim2.new(0, 10, 0, 50)
-Switch.Size = UDim2.new(0, 50, 0, 20)
+Switch.Size = UDim2.new(0, 100, 0, 70)
 Switch.Font = Enum.Font.SourceSans
-Switch.Text = "OFF"
+Switch.Text = "Utrah not entered could not turn off"
 Switch.TextColor3 = Color3.new(1, 1, 1)
 
 local ESPEnabled = false
